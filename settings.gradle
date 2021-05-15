@@ -1,0 +1,4 @@
+include ':service'
+include ':ftp'
+include ':app'
+rootProject.name = "UploadFile"
